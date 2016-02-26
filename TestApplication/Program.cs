@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             System.Console.WriteLine("done");
+            System.Console.ReadKey();
         }
     }
 }
